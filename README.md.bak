@@ -176,9 +176,9 @@ numero de telefone deve seguir os padrões reais de telefones;
 * url para conexão com o banco, caso o schema não exista a aplicação está configurada para a criação automaticamente do mesmo com todas as tabelas e estruturas necessárias para facilidade nos testes:
 jdbc:mysql://localhost:3306/conexa_saude
 * user e password do banco mysql configurada para facilitar os testes -> root/root
-* versão do mysql utilizada: 
-8.0
+
+
 * versão do java utilizado para rodar a api:
-11 .0
-* versão do projeto:
-1.8
+11 
+* versão do projeto
+8
